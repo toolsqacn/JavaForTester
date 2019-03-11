@@ -10,7 +10,7 @@
 
 本课程是敏捷测试系列的基础课程，由时牧敏捷社区推出。欢迎交流！
 
-![时牧敏捷社区](/Users/dutiesheng/Books/agiletest/JavaForTester/images/firescrum.jpg)
+![时牧敏捷社区](images/firescrum.jpg)
 
 <center>
 时牧敏捷社区
